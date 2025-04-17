@@ -1,0 +1,72 @@
+[
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalA",
+        "FileName": "departments.csv",
+        "DatabaseName": "city-hospital-a",
+        "TableName": "Departments"
+    },
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalA",
+        "FileName": "providers.csv",
+        "DatabaseName": "city-hospital-a",
+        "TableName": "Providers"
+    },
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalA",
+        "FileName": "encounters.csv",
+        "DatabaseName": "city-hospital-a",
+        "TableName": "Encounters"
+    },
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalA",
+        "FileName": "patients.csv",
+        "DatabaseName": "city-hospital-a",
+        "TableName": "Patients"
+    },
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalA",
+        "FileName": "transactions.csv",
+        "DatabaseName": "city-hospital-a",
+        "TableName": "Transactions"
+    },
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalB",
+        "FileName": "departments.csv",
+        "DatabaseName": "city-hospital-b",
+        "TableName": "Departments"
+    },
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalB",
+        "FileName": "providers.csv",
+        "DatabaseName": "city-hospital-b",
+        "TableName": "Providers"
+    },
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalB",
+        "FileName": "encounters.csv",
+        "DatabaseName": "city-hospital-b",
+        "TableName": "Encounters"
+    },
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalB",
+        "FileName": "patients.csv",
+        "DatabaseName": "city-hospital-b",
+        "TableName": "Patients"
+    },
+    {
+        "Container": "rawdata",
+        "FilePath": "HospitalB",
+        "FileName": "transactions.csv",
+        "DatabaseName": "city-hospital-b",
+        "TableName": "Transactions"
+    }
+]
