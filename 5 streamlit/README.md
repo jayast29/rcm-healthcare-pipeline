@@ -10,7 +10,7 @@ An end-to-end Azure Data Engineering pipeline was implemented to support healthc
 - **Flat files** for claims
 - **APIs** for NPI and ICD code enrichment
 
-A **medallion architecture** was used in **ADLS Gen2**, with ingestion orchestrated via **Azure Data Factory**. Data transformation and processing was done in **Azure Databricks**
+A **medallion architecture** was used in **ADLS Gen2**, with ingestion orchestrated via **Azure Data Factory**. Data transformation and processing was done in **Azure Databricks**.
 
 The refined **Gold Layer** produced analytical fact and dimension tables, which powered this interactive Streamlit dashboard showing KPIs.
 
