@@ -1,6 +1,6 @@
-## Revenue Cycle Management - Healthcare Pipeline
+## RevenueCare: Healthcare Financial Workflow
 
-**RCM Healthcare Pipeline** is a scalable, cloud-native data engineering project that simulates a real-world Revenue Cycle Management (RCM) solution for healthcare providers. It involves building an end-to-end data pipeline to ingest, transform, and serve data from hospitals, insurance companies, and public health APIs. It captures the financial flow from patient scheduling to provider payment, leveraging the Azure data stack to build a robust and maintainable data pipeline. 
+**RevenueCare** is a scalable, cloud-native data engineering project that simulates a real-world **Revenue Cycle Management** (RCM) solution for healthcare providers. It involves building an end-to-end data pipeline to ingest, transform, and serve data from hospitals, insurance companies, and public health APIs. It captures the financial flow from patient scheduling to provider payment, leveraging the Azure data stack to build a robust and maintainable data pipeline. 
 The project follows the medallion architecture **Landing → Bronze → Silver → Gold** and uses Azure Data Factory for orchestration, Delta Lake for ACID-compliant storage, and Azure Databricks for transformation. The solution integrates **Unity Catalog** for centralized data governance and Azure Key Vault for secure secret management. Finally, a Streamlit dashboard built on top of the gold layer presents business KPIs and insights.
 
 ---
