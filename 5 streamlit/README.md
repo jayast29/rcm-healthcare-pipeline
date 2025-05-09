@@ -17,6 +17,7 @@ The refined **Gold Layer** produced analytical fact and dimension tables, which 
 ### 📊 Features in the Dashboard
 
 - 📄 **Overview** – Project summary + KPI metrics
+![Dashboard Overview](visualizations/0 overview.png)
 - 📈 **Revenue Trends** – Charges, payments & outstanding over time
 - ⌛ **AR Aging Overview** – Avg. Days in AR by bucket
 - 🏥 **Outstanding by Department** – Top departments by AR
