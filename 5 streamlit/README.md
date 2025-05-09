@@ -17,14 +17,27 @@ The refined **Gold Layer** produced analytical fact and dimension tables, which 
 ### 📊 Features in the Dashboard
 
 - 📄 **Overview** – Project summary + KPI metrics
+ ![Dashboard Overview](visualizations/0_overview.png)
 
- ![Dashboard Overview](5 streamlit/visualizations/0 overview.png)
 - 📈 **Revenue Trends** – Charges, payments & outstanding over time
+![Visualization](visualizations/1_revenue_trends.png)
+ 
 - ⌛ **AR Aging Overview** – Avg. Days in AR by bucket
+![Visualization](visualizations/2_ar_aging.png)
+ 
 - 🏥 **Outstanding by Department** – Top departments by AR
+![Visualization](visualizations/3_outstanding_revenue.png)
+  
 - 💰 **Top Procedures by Charge** – Highest revenue-generating procedures
+![Visualization](visualizations/4_top_procedure.png)
+  
 - 🧍‍♀️ **Patient Distribution by Department** – Gender-based patient counts
+![Visualization](visualizations/5_patient_distribution.png)
+  
 - 💳 **Payment Types** – Payment distribution by payer type
+![Visualization](visualizations/6_payment_type.png)
+ 
 - 🩺 **Visit Type Impact** – Financial metrics by visit type
+![Visualization](visualizations/7_visit_type.png)
 
 
